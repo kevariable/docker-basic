@@ -1,0 +1,1 @@
+docker container exect -i -t container_name /bin/sh
